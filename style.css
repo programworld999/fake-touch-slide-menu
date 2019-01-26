@@ -1,8 +1,11 @@
 body{
 margin: 0;
 padding: 0;
-background: ;
+background: url("trianglify.svg") no-repeat;
+background-size: cover;
+background-position: center;
 overflow: hidden;
+
 }
 
 #range{
